@@ -1,0 +1,8 @@
+!!! Started 6/24/01 10:19:12 AM
+!!! Listening for connections on tcp port(s) 21,23,139
+** 6/24/01 10:19:12 AM - Hard log is on
+** 6/24/01 10:19:25 AM - 127.0.0.1:21 Connection Attempted!
+** 6/24/01 10:19:32 AM - 127.0.0.1:23 Connection Attempted!
+** 6/24/01 10:19:37 AM - 127.0.0.1:23 Connection Attempted!
+** 6/24/01 10:19:45 AM - 127.0.0.1:139 Connection Attempted!
+** 6/24/01 10:20:33 AM - 127.0.0.1:21 Connection Attempted!
